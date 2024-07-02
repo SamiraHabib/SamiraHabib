@@ -24,9 +24,8 @@
 <div class="footer">
  <a href="https://github.com/SamiraHabib">
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraHabib&layout=compact&langs_count=7&theme=dracula"/>
- <div>
-  <img height="140em" style="left:50" src="https://github-readme-stats.vercel.app/api?username=SamiraHabib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+ <img height="140em" padding="5" src="https://github-readme-stats.vercel.app/api?username=SamiraHabib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 - Thanks for visiting.
