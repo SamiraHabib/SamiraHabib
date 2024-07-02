@@ -12,11 +12,11 @@
 
 :books: I’m currently learning everything.
 
-## About me
+## Contact:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/SamiraHabib)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](www.linkedin.com/in/samira-habib-45a46b1b6)
+<div>
+<a href="www.linkedin.com/in/samira-habib-45a46b1b6" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 - Thanks for visiting.
 
