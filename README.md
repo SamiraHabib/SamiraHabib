@@ -38,12 +38,6 @@
 
 <br>
 
-## 📌 Pinned Repositories
-
-> Pin your favorite repositories on your GitHub profile so visitors see your best work first: go to your profile → *Customize your pins* → choose up to 6 repos.
-
-<br>
-
 ---
 
 <p align="center">
